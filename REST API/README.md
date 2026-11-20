@@ -5,7 +5,7 @@ A RESTful API that supports full **CRUD** (Create, Read, Update, Delete) operati
 
 ## ✨ Features
 
-- **Full CRUD:** create, list, fetch, update and delete tasks
+- **Full CRUD:** create, list, fetch, update and delete 
 - **MongoDB persistence** using Mongoose models
 - **Schema validation:** required fields, enums and length limits
 - **Proper HTTP status codes** (`200`, `201`, `204`, `400`, `404`, `500`)
