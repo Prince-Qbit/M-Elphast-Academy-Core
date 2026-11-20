@@ -7,7 +7,7 @@ A responsive personal portfolio website built with **HTML**, **CSS** and **JavaS
 
 ## ✨ Features
 
-- **Fully responsive:** mobile-first layout that adapts to phones, tablets and desktops
+- **Fully responsive:** mobile-first layout that adapts to phones, tablets and 
 - **Mobile navigation:** hamburger menu with smooth open/close
 - **Dark / light theme toggle:** preference saved in `localStorage`
 - **Smooth scrolling** with the active nav link highlighted as you scroll
