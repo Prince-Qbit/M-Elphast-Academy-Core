@@ -4,7 +4,7 @@ A command-line JavaScript application that manages student records and analyzes 
 
 ## ✨ Features
 
-- **Manage profiles:** add, update, remove, find and search 
+- **Manage profiles:** add, update, remove, find and search students
 - **Track scores:** add any number of scores to a student
 - **Analyze performance:** averages, highest/lowest, letter grades, pass/fail status
 - **Rank students** and list the top performers or those below the pass mark
